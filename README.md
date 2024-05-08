@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VeenathT
+- 👋 Hi, I’m Thamuditha Veenath
 - 👀 I’m interested in exploring the intersections of technology, creativity, and social impact, as well as delving into fitness, style, psychology, and Eastern science.
 - 🌱 I’m currently learning software engineering and diving deeper into the world of IT.
 - 💞️ I’m looking to collaborate on projects that utilize technology for positive change and innovation.
