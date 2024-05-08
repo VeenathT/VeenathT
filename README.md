@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Software engineering , web development , and machine learning**
 
-- 👀 I’m interested in **Exploring the intersections of technology, creativity, and social impact, as well as delving into fitness, style, and psychology.**
+- 👀 I’m interested in **Exploring the intersections of technology, creativity, and social impact , as well as delving into fitness, style, and psychology.**
 
 - 📫 How to reach me: **veenaththamuditha@gmail.com**
 
-- ⚡ Fun fact: **Balancing my love for coding with my passion for fitness, you'll often find me debugging code between gym sets or brainstorming project ideas during a workout session.**
+- ⚡ Fun fact: **Balancing my love for coding with my passion for fitness , you'll often find me debugging code between gym sets or brainstorming project ideas during a workout session.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,5 +33,5 @@
 </p>
 
 <p align="left">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=veenatht" alt="veenatht">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=veenatht" alt="veenatht">
 </p>
