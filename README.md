@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **veenaththamuditha@gmail.com**
 
-- ⚡ Fun fact: **Balancing my love for coding with my passion for fitness , you'll often find me debugging code between gym sets or brainstorming project ideas during a workout session.**
+- ⚡ Fun fact: **Balancing my love for coding with my passion for fitness and style , you'll often find me debugging code between gym sets or brainstorming project ideas during a workout session.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
