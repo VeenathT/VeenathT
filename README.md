@@ -7,13 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=veenatht&label=Profile%20views&color=0e75b6&style=flat" alt="veenatht">
 </p>
 
-- 🌱 I’m currently learning **Software engineering , web development , and machine learning**
+🌱 I’m currently learning **Software engineering , web development , and machine learning**
 
-- 👀 I’m interested in **Exploring the intersections of technology, creativity, and social impact , as well as delving into fitness, style, and psychology.**
+👀 I’m interested in **Exploring the intersections of technology, creativity, and social impact , as well as delving into fitness, style, and psychology.**
 
-- 📫 How to reach me: **veenaththamuditha@gmail.com**
+📫 How to reach me: **veenaththamuditha@gmail.com**
 
-- ⚡ Fun fact: **Balancing my love for coding with my passion for fitness and style , you'll often find me debugging code between gym sets or brainstorming project ideas during a workout session.**
+⚡ Fun fact: **Balancing my love for coding with my passion for fitness and style , you'll often find me debugging code between gym sets or brainstorming project ideas during a workout session.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
