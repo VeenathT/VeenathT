@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=veenatht&label=Profile%20views&color=0e75b6&style=flat" alt="veenatht">
 </p>
 
-🌱 I’m currently learning **Software engineering , web development , and machine learning**
+🌱 I’m currently learning **Software engineering , web development , and  UI/UX designing**
 
 👀 I’m interested in **Exploring the intersections of technology, creativity, and social impact , as well as delving into fitness, style, and psychology.**
 
