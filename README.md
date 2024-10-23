@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thamuditha Veenath</h1>
-<h3 align="center">A fervent tech explorer deeply driven by the belief that technology can be a force for immense good</h3>
+<h3 align="center">Passionate about exploring technology and believe it can make a big, positive impact on the world</h3>
 
 <img align="right" alt="Coding" width="300" height="270" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
