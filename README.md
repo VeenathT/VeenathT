@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **Software engineering, web development, and I am passionate about UI/UX designing.**
 
-👀 I’m interested in **Exploring the intersections of technology, creativity, and social impact, as well as delving into fitness and psychology.**
+👀 I’m interested in **Exploring the intersections of technology, creativity, and social impact, as well as delving into psychology.**
 
 📫 How to reach me: **tveenath@gmail.com**
 
